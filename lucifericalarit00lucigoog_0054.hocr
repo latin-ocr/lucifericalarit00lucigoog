@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lucifericalarit00lucigoog_0054.png"; bbox 0 0 2850 4754; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 206 2130 1210 2248">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 206 2130 1210 2248">
+     <span class='ocr_line' id='line_1_1' title="bbox 206 2130 1210 2248; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 206 2134 496 2248; x_wconf 77' lang='lat' dir='ltr'><strong>LVGIFERI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 530 2130 799 2246; x_wconf 76' lang='lat' dir='ltr'>EPISGOPI</span> <span class='ocrx_word' id='word_1_3' title='bbox 833 2131 1210 2246; x_wconf 78' lang='lat' dir='ltr'><strong>GALARITANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 556 2467 851 2570">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 556 2467 851 2570">
+     <span class='ocr_line' id='line_1_2' title="bbox 556 2467 851 2570; baseline -0.003 -3"><span class='ocrx_word' id='word_1_4' title='bbox 556 2467 851 2570; x_wconf 80' lang='lat' dir='ltr'><strong>OPVSOVLA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1430 4754">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1430 4754">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1430 4754; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1430 4754; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
